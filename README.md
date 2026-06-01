@@ -1,5 +1,4 @@
 # Task_1
-Overview
 This repository contains three data cleaning projects completed using Python and Pandas. The objective of these projects is to transform raw datasets into clean, analysis-ready datasets by handling missing values, correcting data types, removing duplicates, and standardizing data formats.
 
 Datasets Included
